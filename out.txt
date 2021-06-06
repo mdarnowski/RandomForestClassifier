@@ -1,0 +1,23 @@
+accuracy of the model:    0.8706293706293706
+Survey_id                 importance: 0.07
+Ville_id                  importance: 0.07
+sex                       importance: 0.0
+Age                       importance: 0.1
+Married                   importance: 0.02
+Number_children           importance: 0.03
+education_level           importance: 0.07
+total_members             importance: 0.04
+gained_asset              importance: 0.04
+durable_asset             importance: 0.06
+save_asset                importance: 0.05
+living_expenses           importance: 0.07
+other_expenses            importance: 0.06
+incoming_salary           importance: 0.0
+incoming_own_farm         importance: 0.0
+incoming_business         importance: 0.0
+incoming_no_business      importance: 0.01
+incoming_agricultural     importance: 0.05
+farm_expenses             importance: 0.06
+labor_primary             importance: 0.01
+lasting_investment        importance: 0.07
+no_lasting_investmen      importance: 0.1
